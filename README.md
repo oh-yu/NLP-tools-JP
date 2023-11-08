@@ -1,7 +1,7 @@
 # Similarity Between Two Sentences
 ## 0. Requirements
 pwd  
-=> hoge/NLP-tools-JP/sentences-similarity
+=> hoge/NLP-tools-JP/sentences-similarity  
 wget http://public.shiroyagi.s3.amazonaws.com/latest-ja-word2vec-gensim-model.zip  
 unzip ./latest-ja-word2vec-gensim-model.zip
 
