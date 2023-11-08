@@ -1,10 +1,10 @@
-# Requirements
+# Similarity Between Two Sentences
+## 0. Requirements
 pwd  
 => hoge/NLP-tools-JP  
 wget http://public.shiroyagi.s3.amazonaws.com/latest-ja-word2vec-gensim-model.zip  
 unzip ./latest-ja-word2vec-gensim-model.zip
 
-# Similarity Between Two Sentences
 ## 1. Gzip Compression Dist
 https://gist.github.com/kyo-takano/fa2b42fb4df20e2566c29c31f20f87ed  
 https://aclanthology.org/2023.findings-acl.426/
